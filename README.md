@@ -1,2 +1,2 @@
 # ProGO-PFL
-GraphGPT: Generative Pre-trained Graph Eulerian Transformer
+Revisiting Protein Function Prediction: Bridging Large Biological Networks and Ontological Knowledge via Weak Associations
